@@ -1,0 +1,10 @@
+* {
+    background: #189483;
+}
+.container h1 {
+    display: flex;
+    justify-content: center;  /* Centraliza horizontalmente */
+    align-items: flex-start;  /* Alinha no topo */
+    padding-top: 60px;  /* Ajuste conforme necessário */
+    height: 100vh; 
+}
